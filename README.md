@@ -1,4 +1,4 @@
-![Tela da página do projeto](./assets/img/preview-photo.png)
+![Tela da página do projeto](https://github.com/Guilhermesou/7DaysOfCode/blob/71cb0fa9c0a71f47ba8e732cc5e3629b2137a728/assets/img/preview_photo.png)
 
 # #7DaysOfCode
 
